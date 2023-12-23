@@ -1,4 +1,4 @@
-package com.esprit.springbootcicd;
+package com.esprit.springbootcicd.todo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
